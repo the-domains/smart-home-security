@@ -1,0 +1,14 @@
+layout_spectrum: 0.5805101695004851
+typography_spectrum: 0.6996928644366562
+color:
+  brandStrength: 0.6023684171959758
+  lightness: 0.6704030188266188
+  saturation: 0.3857255328912288
+  rhythmicContrast: 0.5658494217786938
+  brandColors:
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+name: smart home security
